@@ -1,2 +1,6 @@
 hello git
 edit to input more
+git upload 3 steps:
+git add filename.extension
+git commit -m commentString
+git push -u origin main
